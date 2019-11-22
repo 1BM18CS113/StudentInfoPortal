@@ -100,9 +100,21 @@ ul li.active a{
 
 
 .reason{
-	position: relative;
-	top: 1000px;
+	position: absolute;
+	top: 200%;
+	left: 5%;
 	text-align: left;
+	font-family: 'Alata', cursive;
+	color: #000000;
+	font-size: 30px;
+}
+
+
+.reason-to-use{
+	position: absolute;
+	top: 250%;
+	left: 5%;
+	text-align: justify;
 	font-family: 'Noto Serif', serif;
 	color: #000000;
 	font-size: 30px;
